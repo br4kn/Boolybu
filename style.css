@@ -42,6 +42,7 @@ nav ul li a {
 
 main {
     max-width: 800px;
+    background-color: #007bff;
     margin: 0 auto;
     padding: 20px;
     /* Adiciona margem superior para compensar a altura do cabeçalho fixo */
