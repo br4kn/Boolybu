@@ -77,3 +77,31 @@ footer {
 .BoollyBu{
     max-width: 50px;
 }
+
+.social-buttons {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .social-buttons a {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .facebook-button {
+    background-color: #3b5998; /* Cor do Facebook */
+  }
+  
+  .instagram-button {
+    background-color: #e4405f; /* Cor do Instagram */
+  }
+  
+  .social-buttons a:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* Adicione uma cor mais clara no hover se desejar */
+  }
+  
